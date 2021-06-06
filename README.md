@@ -20,11 +20,11 @@
 * Tóm lược chương trình liên kết với [MENU](https://github.com/bninojhon/KTLT_Project/blob/master/sources/functions/MENU.h): Chi tiết trong file [Program.h](https://github.com/bninojhon/KTLT_Project/blob/master/sources/functions/Program.h), [Section1.h](https://github.com/bninojhon/KTLT_Project/blob/master/sources/functions/Section/Section1.h), [Section2.h](https://github.com/bninojhon/KTLT_Project/blob/master/sources/functions/Section/Section2.h)
 
 ```
-|---ProgramSection1(int subsection)
-|   |---Print_SV_bin()
-|   |---Print_HP_bin()
-|   |---Control_DiemThi()
-|   |---Control_CPA()
++--_ProgramSection1(int subsection)
+|  +---Print_SV_bin()
+|  +---Print_HP_bin()
+|  +---Control_DiemThi()
+|  +---Control_CPA()
 |
 |---ProgramSection2(int subsection)
 |   |---Control_WriteData()
