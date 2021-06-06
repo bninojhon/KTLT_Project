@@ -1,6 +1,6 @@
 # **Topic 6: Student Information System (SIS) - by 20195851 & 20195849**
 
-## 1. Hướng dẫn sử dụng các file header trong [folder]() *sources/entities* - [link]()
+## 1. Hướng dẫn sử dụng các file header trong [folder](https://github.com/bninojhon/KTLT_Project/tree/master/sources) *sources/entities* - [link](https://github.com/bninojhon/KTLT_Project/blob/master/sources/README_ENT.md)
 
 ## 2. Hướng dẫn sử dụng chương trình
 
