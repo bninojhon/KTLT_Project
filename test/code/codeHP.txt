@@ -1,0 +1,26 @@
+    HP hp1 = {"MI3030","Xac_suat_thong_ke", 4};
+    HP hp2 = {"MI3310", "Ky_thuat_lap_trinh", 2};
+    HP hp3 = {"MI3090", "Co_so_du_lieu", 3};
+    HP hp4 = {"MI3060", "CTDL_va_GT",3};
+    HP hp5 = {"MI3041", "Giai_tich_so",2};
+    HP hp6 = {"MI3041","Giai_tich_so",2};
+    WriteHP_ToBIN(hp1);
+    printf("\n");
+    WriteHP_ToBIN(hp2);
+    printf("\n");
+    WriteHP_ToBIN(hp3);
+    printf("\n");
+    WriteHP_ToBIN(hp4);
+    printf("\n");
+    WriteHP_ToBIN(hp5);
+    printf("\n");
+    Print_HP_bin();
+    printHP(hp1,CheckExist_HP_toPosition(hp1.maHP));
+    Print_HP_bin();
+    CheckExist_HP_toPosition("MI3060");
+    CheckExist_HP_toPosition("Mon_ABC_nao_do");
+    WriteHP_ToBIN(hp2);
+    Delete_HP("MI3030");
+
+    Update_HP("MI1234",hp6); 
+    

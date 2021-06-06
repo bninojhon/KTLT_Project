@@ -1,0 +1,14 @@
+SV sv1 = {20195851,"Ha","Trong","Dat","Nam",21,9,2001};
+SV sv2 = {20195849,"Trinh","Xuan","Dang","Nam",23,2,2001};
+SV sv3 = {12345678,"Nguyen","Van","A","Nam",23,12,2001};
+// WriteSV_ToBIN(sv1);
+// WriteSV_ToBIN(sv2);
+// WriteSV_ToBIN(sv3);
+// Print_SV_bin();
+// int position = CheckExist_SV_toPosition(20195941);
+// SV sv5 = findSV(position);
+//Delete_SV(20195851);
+// WriteSV_ToBIN(sv3);
+// SV sv6 = {0,"Vuong","Xuan","B","Nam",0,0,0};
+// Update_SV(12345678,sv6);
+Update_SV(12345678,sv1);

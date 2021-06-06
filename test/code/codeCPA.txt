@@ -1,0 +1,10 @@
+Print_HP_bin();
+    DT dty_1 = {12345678,"MI3030",9.6};
+    DT dty_2 = {12345678,"MI3310",8.3};
+    DT dty_3 = {12345678,"MI3041",6.75};
+    WriteDT_toBIN(dty_1);
+    WriteDT_toBIN(dty_2);
+    WriteDT_toBIN(dty_3);
+    
+    Update_CPA_bin();
+    Print_CPA_bin();

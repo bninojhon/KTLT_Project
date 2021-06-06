@@ -1,0 +1,43 @@
+// HP hp1 = {"MI3030","Xac_suat_thong_ke", 4};
+    // HP hp2 = {"MI3310", "Ky_thuat_lap_trinh", 2};
+    // HP hp3 = {"MI3090", "Co_so_du_lieu", 3};
+    // HP hp4 = {"MI3060", "CTDL_va_GT",3};
+    // HP hp5 = {"MI3041", "Giai_tich_so",2};
+
+    // SV sv1 = {20195851,"Ha","Trong","Dat","Nam",21,9,2001};
+    // SV sv2 = {20195849,"Trinh","Xuan","Dang","Nam",23,2,2001};
+    // SV sv3 = {12345678,"Nguyen","Van","A","Nam",23,12,2001};
+
+
+    // DT dt1_1 = {20195851,"MI3030",9.65};
+    // DT dt1_2 = {20195851,"MI3310",9.34};
+    // DT dt1_3 = {20195851,"MI3060",9.45};
+    // DT dt2_1 = {20195849,"MI3030",9.8};
+    // DT dt2_2 = {20195849,"MI3310",9.85};
+    // WriteDT_toBIN(dt1_1);
+    // printf("\n");
+    // WriteDT_toBIN(dt1_2);
+    // printf("\n");
+    // WriteDT_toBIN(dt1_3);
+    // printf("\n");
+    // WriteDT_toBIN(dt2_1);
+    // printf("\n");
+    // WriteDT_toBIN(dt2_2);
+    // printf("\n");
+    // SelectDTBin_HP_BySV(20195849,1, ALL);
+    
+
+    // DT dtx_1 = {11111111,"MI030",5};
+    // DT dtx_2 = {20195851,"MI330",5};
+    // DT dtx_3 = {20195849,"MI3030",5};
+    // WriteDT_toBIN(dtx_1);
+    // printf("\n");
+    // WriteDT_toBIN(dtx_2);
+    // printf("\n");
+    // WriteDT_toBIN(dtx_3);
+    // SelectDTBin_HP_BySV(20195849,1, ALL);
+    // SelectDTBin_HP_BySV(12345678,10,ALL);
+    // SelectDTBin_HP_BySV(12345678,4,LOWER);
+
+    // SelectDTBin_SV_byHP("MI3060",10,ALL);
+    // SelectDTBin_SV_byHP("MI3041",4,LOWER);
